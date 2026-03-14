@@ -1,0 +1,49 @@
+name,age,gender,region,premium_amount,claim_amount,tenure_years,policy_type,no_of_claims
+John Patel,34,Male,Ontario,820.00,0.00,3,car,0
+Sarah Wong,29,Female,British Columbia,650.50,1200.75,5,health,3
+Michael Singh,45,Male,Alberta,1100.25,0.00,8,home,0
+Priya Sharma,38,Female,Ontario,590.40,500.10,2,life,2
+David Brown,52,Male,Manitoba,1400.90,3000.00,10,health,4
+Emily Clark,27,Female,Quebec,680.20,0.00,1,car,0
+Jason Lee,41,Male,Saskatchewan,1200.00,900.55,6,life,1
+Aisha Khan,33,Female,Ontario,540.75,0.00,4,home,0
+Robert Miller,56,Male,Alberta,1500.60,4500.80,9,health,5
+Linda Garcia,48,Female,Nova Scotia,610.30,700.00,7,car,2
+Kevin Turner,31,Male,Ontario,720.10,0.00,2,life,0
+Sophia Adams,36,Female,British Columbia,980.90,1500.25,5,home,3
+Mark Wilson,43,Male,Quebec,1150.00,0.00,9,health,0
+Olivia Martin,28,Female,Ontario,650.50,0.00,1,car,0
+Ethan Davis,39,Male,Alberta,1020.75,600.40,4,life,1
+Chloe Bennett,32,Female,Manitoba,570.20,0.00,3,home,0
+Ryan Cooper,47,Male,Saskatchewan,1300.00,2000.00,8,car,4
+Hannah Scott,30,Female,Ontario,700.00,0.00,2,health,0
+Daniel Evans,55,Male,British Columbia,1450.80,3500.60,10,life,5
+Maya Rodriguez,37,Female,Quebec,900.40,400.00,6,home,1
+Liam Parker,42,Male,Ontario,1120.00,0.00,7,car,0
+Ava Thompson,26,Female,Alberta,640.25,0.00,1,health,0
+Noah Campbell,50,Male,Manitoba,1380.90,2500.75,9,life,3
+Isabella Moore,33,Female,Ontario,580.00,0.00,3,home,0
+James Anderson,46,Male,Saskatchewan,1250.50,900.00,8,car,2
+Mila Hernandez,29,Female,Quebec,720.00,0.00,2,health,0
+Logan Wright,40,Male,Alberta,1080.60,500.20,5,life,1
+Ella King,35,Female,Ontario,660.40,0.00,4,home,0
+Lucas Green,53,Male,Nova Scotia,1420.00,3200.00,10,car,5
+Grace Hall,31,Female,Ontario,690.00,0.00,2,health,0
+Henry Young,44,Male,British Columbia,1180.75,0.00,7,life,0
+Zoe Baker,28,Female,Manitoba,660.30,0.00,1,home,0
+Jack Rivera,38,Male,Ontario,940.00,600.10,4,car,2
+Aria Mitchell,36,Female,Quebec,680.20,0.00,3,health,0
+William Carter,49,Male,Alberta,1320.00,2100.00,8,life,4
+Lily Perez,30,Female,Ontario,710.50,0.00,2,home,0
+Benjamin Hughes,55,Male,Saskatchewan,1480.90,4000.00,10,car,5
+Natalie Foster,34,Female,British Columbia,620.00,0.00,3,health,0
+Owen Russell,41,Male,Ontario,1200.40,900.00,6,life,2
+Harper Simmons,27,Female,Quebec,670.00,0.00,1,home,0
+Elijah Ward,52,Male,Alberta,1400.00,2800.50,9,car,3
+Victoria Cox,33,Female,Ontario,590.25,0.00,3,health,0
+Matthew Gray,45,Male,Manitoba,1100.00,0.00,7,life,0
+Scarlett Diaz,29,Female,Nova Scotia,720.10,0.00,2,home,0
+Wyatt Brooks,39,Male,Ontario,1000.00,500.00,5,car,1
+Penelope Hughes,37,Female,Quebec,910.60,0.00,4,health,0
+Andrew Price,48,Male,Alberta,1350.00,2300.00,8,life,3
+Camila Flores,32,Female,Ontario,650.00,0.00,3,home,0
